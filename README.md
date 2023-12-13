@@ -1,2 +1,0 @@
-# sanuthchat
-Free Chatting 
